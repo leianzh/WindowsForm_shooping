@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WindowsForm_shooping
+namespace WindowsForm_shooping//0501無法選擇多筆按結帳
 {
     public partial class Form1 : Form
     {
